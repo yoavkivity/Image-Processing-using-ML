@@ -1,14 +1,17 @@
 
 **_Image-Processing-using-ML_**
-__Overview_
+_Overview_
 
 _This project automates the process of preparing images for laser engraving on wood blocks. It uses a machine learning model to predict optimal image adjustment parameters, improving clarity, sharpness, and contrast for high-quality engraving._
+![examples](https://github.com/user-attachments/assets/105e64c8-1d39-4e49-ab8b-6bc8721fbaae)
+
 
 
 **Project Components**
 **_1. adjust_image_ratio.py_**
 
-_This script crops the original image to a fixed aspect ratio based on the size of the wooden block_.![crop_image](https://github.com/user-attachments/assets/bfbfa50b-1f88-47bc-9675-591bfd863247)
+_This script crops the original image to a fixed aspect ratio based on the size of the wooden block_![croping](https://github.com/user-attachments/assets/8574dda2-6d66-41cb-8bcf-1bf2e88a9004)
+
 
 
 **_2. calc_and_filter_best_results.py_**
@@ -27,7 +30,9 @@ _Displays preview images side by side, letting you choose the best one. The sele
 _Allows fine-tuning of the predicted parameters to achieve the best engraving quality_.![fine_tuning](https://github.com/user-attachments/assets/3c96c243-1cb8-4dcd-b451-7a937f6fa2ca)
 
 ![comparision](https://github.com/user-attachments/assets/665bb7d1-1e75-44a4-865d-0c38b375ed0c)
-![output](https://github.com/user-attachments/assets/8af60485-a693-4cea-be2c-63b9dc362774)
+![output2](https://github.com/user-attachments/assets/1db95bc4-63d6-4827-89f0-cbbd217ca6ac)
+
+
 
 
 **_5. train_ml_module.py_**
