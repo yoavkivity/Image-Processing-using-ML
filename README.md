@@ -29,7 +29,10 @@ _Displays preview images side by side, letting you choose the best one. The sele
 
 _Allows fine-tuning of the predicted parameters to achieve the best engraving quality_.![fine_tuning](https://github.com/user-attachments/assets/3c96c243-1cb8-4dcd-b451-7a937f6fa2ca)
 
-![comparision](https://github.com/user-attachments/assets/665bb7d1-1e75-44a4-865d-0c38b375ed0c)
+
+![comparision](https://github.com/user-attachments/assets/c5a66c6c-d244-4774-bb08-73d1e040fb63)
+
+
 ![output2](https://github.com/user-attachments/assets/1db95bc4-63d6-4827-89f0-cbbd217ca6ac)
 
 
